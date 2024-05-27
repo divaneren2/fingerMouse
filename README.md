@@ -1,2 +1,2 @@
 Required:
-pip install open-cv
+pip install opencv-python mediapipe pyautogui
